@@ -20,3 +20,7 @@ This extension simplifies any type of integration that requires your SPA views t
 ## Support
 
 Please open an Issue in this GitHub repository for any support.
+
+## Versions
+
+0.1.3. - Initial public release
