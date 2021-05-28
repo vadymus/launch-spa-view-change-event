@@ -19,4 +19,4 @@ This extension simplifies any type of integration that requires your SPA views t
 
 ## Support
 
-Please [open an Issue](/issues/new) in this GitHub repository for any support.
+Please [open an Issue](issues/new) in this GitHub repository for any support.
