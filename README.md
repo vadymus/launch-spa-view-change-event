@@ -23,4 +23,5 @@ Please open an Issue in this GitHub repository for any support.
 
 ## Versions
 
-0.1.3. - Initial public release
+0.1.3 - Initial public release
+0.1.4 - Performance improvements
